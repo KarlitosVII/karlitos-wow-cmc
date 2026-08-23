@@ -1,0 +1,16 @@
+{
+    "releases": [
+        {
+            "name":"Cooldown Manager Centered",
+            "version":"5.2.19",
+            "filename": "CooldownManagerCentered-v5.2.19.zip",
+            "nolib": false,
+            "metadata": [
+                {
+                    "flavor": "mainline",
+                    "interface": 120100
+                }
+            ]
+        }
+    ]
+}
